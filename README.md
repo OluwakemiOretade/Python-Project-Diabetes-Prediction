@@ -14,8 +14,7 @@ The objectives of this project are to:
 
 * Familiarize with the data
 * Prepare the data for analysis by cleaning it
-* Formulate relevant questions for further analysis
-* Analyze the variables within the data to uncover patterns and insights related to these questions.
+* Predict the outcome
 
 
 ## Dataset
