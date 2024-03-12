@@ -34,3 +34,7 @@ The dataset for this project was downloaded from Kaggle, which contains the foll
 - `DiabetesPedigreeFunction`: Diabetes pedigree function (a function which scores likelihood of diabetes based on family history)
 - `Age`: Age (years)
 - `Outcome`: Class variable (0 if non-diabetic, 1 if diabetic)
+
+## Exploratory Data Analysis and Diabetes Prediction
+
+Read the complete result [here](https://github.com/OluwakemiOretade/Python-Project-Diabetes-Prediction/blob/main/Diabetes%20Diagonosis.ipynb)
