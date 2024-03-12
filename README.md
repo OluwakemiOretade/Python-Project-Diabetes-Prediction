@@ -6,6 +6,10 @@
 
 In this project, we will explore the data to see how certain diagnostic factors affect the diabetes outcome of women patients using predictive model.
 
+## Introduction
+
+Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy Your body breaks down most of the food you eat into sugar (glucose) and releases it into your bloodstream. When your blood sugar goes up, it signals your pancreas to release insulin. Insulin acts like a key to let the blood sugar into your body’s cells for use as energy. With diabetes, your body doesn’t make enough insulin or can’t use it as well as it should. When there isn’t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems, such as heart disease, vision loss, and kidney disease. There is an increase in the number of diabetes as shown in this report
+
 ## Goals
 
 This notebook presents an examination of a diabetes dataset obtained from the National Institute of Diabetes and Digestive and Kidney Diseases, which can be found on [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
@@ -30,30 +34,3 @@ The dataset for this project was downloaded from Kaggle, which contains the foll
 - `DiabetesPedigreeFunction`: Diabetes pedigree function (a function which scores likelihood of diabetes based on family history)
 - `Age`: Age (years)
 - `Outcome`: Class variable (0 if non-diabetic, 1 if diabetic)
-
-## Table of Contents
-
-- 0. Goals
-- 1. Data
-   
-   - 1.1 Overview
-   
-   - 1.2 Data Description
-   
-   - 1.3 Data Summary
-
-- 2. Data Cleaning
-
-   - 2.1 Missing Values
-
-       - 2.1.1 Impute Missing Values
-   
-   - 2.2 Outliers
-   
-       - 2.2.1 Insulin
-      
-       - 2.2.2 SkinThickness
-      
-       - 2.2.3 Pregnancies
-
-- 3. Exploratory Data Analysis
