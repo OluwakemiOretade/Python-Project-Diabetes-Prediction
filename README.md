@@ -8,7 +8,7 @@ In this project, we will explore the data to see how certain diagnostic factors 
 
 ## Introduction
 
-Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy Your body breaks down most of the food you eat into sugar (glucose) and releases it into your bloodstream. When your blood sugar goes up, it signals your pancreas to release insulin. Insulin acts like a key to let the blood sugar into your body’s cells for use as energy. With diabetes, your body doesn’t make enough insulin or can’t use it as well as it should. When there isn’t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems, such as heart disease, vision loss, and kidney disease. There is an increase in the number of diabetes as shown in this report
+Diabetes is a chronic (long-lasting) health condition that affects how your body turns food into energy Your body breaks down most of the food you eat into sugar (glucose) and releases it into your bloodstream. When your blood sugar goes up, it signals your pancreas to release insulin. Insulin acts like a key to let the blood sugar into your body’s cells for use as energy. With diabetes, your body doesn’t make enough insulin or can’t use it as well as it should. When there isn’t enough insulin or cells stop responding to insulin, too much blood sugar stays in your bloodstream. Over time, that can cause serious health problems, such as heart disease, vision loss, and kidney disease. There is an increase in the number of diabetes as shown in this [report](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01296-5/fulltext)
 
 ## Goals
 
